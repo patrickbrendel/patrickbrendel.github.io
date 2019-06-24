@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Welcome to the homepage exclamation mark
 description: learning on the fly
+plugins: 
+  - jekyll-seo-tag
