@@ -6,7 +6,7 @@
 #### Resume
 [Download my resume. (pdf)](https://github.com/patrickbrendel/patrickbrendel.github.io/blob/master/Patrick%20Brendel%20Resume%20June%202019.pdf)
 
-[<img src="https://patrickbrendel.github.io/resources/github-icon.svg" width="50" align="right" align="top">](https://www.github.com/patrickbrendel) [<img src="https://patrickbrendel.github.io/resources/linkedin.svg" width="50" align="right" >](https://www.linkedin.com/in/patrick-brendel-06b8713b) [<img src="https://patrickbrendel.github.io/resources/twitter.svg" width="50" align="right">](https://www.twitter.com/pbrendel)
+[<img src="https://patrickbrendel.github.io/resources/github-icon.svg" width="50" align="right">](https://www.github.com/patrickbrendel) [<img src="https://patrickbrendel.github.io/resources/linkedin.svg" width="50" align="right" >](https://www.linkedin.com/in/patrick-brendel-06b8713b) [<img src="https://patrickbrendel.github.io/resources/twitter.svg" width="50" align="right">](https://www.twitter.com/pbrendel)
 <p></p>
 <!---
 Disclosure: Github, LinkedIn and Twitter logos downloaded from www.svgporn.com 
