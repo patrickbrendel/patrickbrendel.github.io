@@ -5,3 +5,8 @@
 
 #### Resume
 [Download my resume. (pdf)](https://github.com/patrickbrendel/patrickbrendel.github.io/blob/master/Patrick%20Brendel%20Resume%20June%202019.pdf)
+
+<!---
+Disclosure: Github, LinkedIn and Twitter logos downloaded from www.svgporn.com 
+-->
+
