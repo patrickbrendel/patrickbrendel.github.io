@@ -1,7 +1,8 @@
 ## Stuff I've been working on
 
 #### Charts, graphs, maps
-[Simple bar graphs for wage info](https://www.caymancompass.com/2019/06/24/wage-survey-shows-caymanians-earn-more-than-expat-workers/)<p> 
+[Simple bar graphs for wage info](https://www.caymancompass.com/2019/06/24/wage-survey-shows-caymanians-earn-more-than-expat-workers/)
+
 [Simple bar graph for audit opinions](https://www.caymancompass.com/2019/06/13/winspear-gives-clean-audits-to-35-agencies/)
 
 #### Resume
