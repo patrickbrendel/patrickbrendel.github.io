@@ -7,6 +7,9 @@
 
 [Simple bar graph for audit opinions](https://www.caymancompass.com/2019/06/13/winspear-gives-clean-audits-to-35-agencies/)
 
+#### DocumentCloud
+[Project directory embed for animal cruelty cases](https://www.caymancompass.com/2019/08/15/69-animal-cruelty-or-neglect-cases-reported-in-2018/)
+
 #### Resume
 [Download my resume. (pdf)](https://github.com/patrickbrendel/patrickbrendel.github.io/blob/master/Patrick%20Brendel%20Resume%20June%202019.pdf)
 
