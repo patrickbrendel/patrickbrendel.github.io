@@ -11,6 +11,7 @@
 
 #### DocumentCloud
 [Project directory embed for royal visit expenses](https://www.caymancompass.com/2019/08/22/royal-visit-cost-cayman-more-than-300000/)
+
 [Project directory embed for animal cruelty cases](https://www.caymancompass.com/2019/08/15/69-animal-cruelty-or-neglect-cases-reported-in-2018/)
 
 #### Resume
