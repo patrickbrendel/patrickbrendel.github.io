@@ -1,7 +1,7 @@
 ## Stuff I've been working on
 
 #### Charts, graphs, maps
-[Table for petition verification process](https://www.caymancompass.com/2019/08/20/last-10-of-port-petition-signatures-to-be-verified/)
+[Table for petition verification process](https://www.caymancompass.com/2019/08/26/nearly-94-of-port-petition-signatures-verified/)
 
 [Interactive map and chart for air travel](https://www.caymancompass.com/2019/07/10/new-gateways-drive-tourism-growth/)
 
