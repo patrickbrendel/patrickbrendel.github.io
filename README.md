@@ -1,13 +1,15 @@
 ## Stuff I've been working on
 
 #### Charts, graphs, maps
+[Bar graphs for student test scores](https://www.caymancompass.com/2019/08/28/student-test-scores-show-more-work-needs-to-be-done/)
+
 [Table for petition verification process](https://www.caymancompass.com/2019/08/26/nearly-94-of-port-petition-signatures-verified/)
 
 [Interactive map and chart for air travel](https://www.caymancompass.com/2019/07/10/new-gateways-drive-tourism-growth/)
 
-[Simple bar graphs for wage info](https://www.caymancompass.com/2019/06/24/wage-survey-shows-caymanians-earn-more-than-expat-workers/)
+[Bar graphs for wage info](https://www.caymancompass.com/2019/06/24/wage-survey-shows-caymanians-earn-more-than-expat-workers/)
 
-[Simple bar graph for audit opinions](https://www.caymancompass.com/2019/06/13/winspear-gives-clean-audits-to-35-agencies/)
+[Bar graph for audit opinions](https://www.caymancompass.com/2019/06/13/winspear-gives-clean-audits-to-35-agencies/)
 
 #### DocumentCloud
 [Project directory embed for royal visit expenses](https://www.caymancompass.com/2019/08/22/royal-visit-cost-cayman-more-than-300000/)
