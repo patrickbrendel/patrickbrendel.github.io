@@ -1,9 +1,9 @@
 ## Stuff I've been working on
 
 #### Charts, graphs, maps
-[Bar graphs for student test scores](https://www.caymancompass.com/2019/08/28/student-test-scores-show-more-work-needs-to-be-done/)
+[Table for petition verification process](https://www.caymancompass.com/2019/09/01/government-spends-130000-on-cruise-project-ad-campaign/)
 
-[Table for petition verification process](https://www.caymancompass.com/2019/08/26/nearly-94-of-port-petition-signatures-verified/)
+[Bar graphs for student test scores](https://www.caymancompass.com/2019/08/28/student-test-scores-show-more-work-needs-to-be-done/)
 
 [Interactive map and chart for air travel](https://www.caymancompass.com/2019/07/10/new-gateways-drive-tourism-growth/)
 
