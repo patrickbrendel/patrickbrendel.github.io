@@ -5,6 +5,8 @@
 
 [Table for petition verification process](https://www.caymancompass.com/2019/09/04/final-push-to-verify-cruise-port-petition-signatures/)
 
+[Table for school inspection reports](https://www.caymancompass.com/2019/09/03/standards-report-challenges-remain-for-cayman-schools/)
+
 [Bar graphs for student test scores](https://www.caymancompass.com/2019/08/28/student-test-scores-show-more-work-needs-to-be-done/)
 
 [Interactive map and chart for air travel](https://www.caymancompass.com/2019/07/10/new-gateways-drive-tourism-growth/)
