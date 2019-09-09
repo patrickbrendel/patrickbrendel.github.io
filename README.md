@@ -1,7 +1,9 @@
 ## Stuff I've been working on
 
 #### Charts, graphs, maps
-[Table for petition verification process](https://www.caymancompass.com/2019/09/01/government-spends-130000-on-cruise-project-ad-campaign/)
+[Bar graphs for inflation rates](https://www.caymancompass.com/2019/09/08/rents-rise-nearly-20-within-a-year/)
+
+[Table for petition verification process](https://www.caymancompass.com/2019/09/04/final-push-to-verify-cruise-port-petition-signatures/)
 
 [Bar graphs for student test scores](https://www.caymancompass.com/2019/08/28/student-test-scores-show-more-work-needs-to-be-done/)
 
