@@ -22,7 +22,7 @@
 
 [Project directory embed for animal cruelty cases](https://www.caymancompass.com/2019/08/15/69-animal-cruelty-or-neglect-cases-reported-in-2018/)
 
-#### Opinion Writing
+#### Opinion writing
 [Cayman Compass 'Editorial Year in Review' for 2016](https://www.caymancompass.com/2016/12/28/editorial-year-in-review/)
 
 [Cayman Compass 'Editorial Year in Review' for 2015: FIFA, Corruption](https://www.caymancompass.com/2015/12/31/editorial-year-in-review-fifa-corruption/)
