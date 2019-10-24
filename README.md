@@ -17,7 +17,6 @@
 [Bar graphs for wage info](https://www.caymancompass.com/2019/06/24/wage-survey-shows-caymanians-earn-more-than-expat-workers/)
 
 [Bar graph for audit opinions](https://www.caymancompass.com/2019/06/13/winspear-gives-clean-audits-to-35-agencies/)
-</details>
 
 #### DocumentCloud
   
@@ -36,7 +35,6 @@
 [Cayman Compass 'Editorial Year in Review' for 2015: Economic Prosperity and Education](https://www.caymancompass.com/2015/12/30/editorial-year-in-review-economic-prosperity-education/)
 
 [Cayman Compass 'Editorial Year in Review' for 2014](https://www.caymancompass.com/2014/12/30/echoes-of-2014-a-year-of-strong-editorial-opinions-in-the-compass/)
-</details>
 
 #### Resume
 [View my resume.](https://docs.google.com/document/d/14jUzFTlDw4pm8-TrX5sL3CYXJlxY9RtcdK1lit8-iQY/edit?usp=sharing)
