@@ -36,13 +36,10 @@
 #### Resume
 [View my resume.](https://docs.google.com/document/d/14jUzFTlDw4pm8-TrX5sL3CYXJlxY9RtcdK1lit8-iQY/edit?usp=sharing)
 
-<center>
-  
-| Check | me | out | online |
+| :Check: | :me: | :out: | :online: |
 --- | --- | --- | ---
 [<img src="https://patrickbrendel.github.io/resources/compass-logo.jpg" width="50" target="_blank">](https://www.caymancompass.com/newsroom-staff/patrick-brendel/) | [<img src="https://patrickbrendel.github.io/resources/github-icon.svg" width="50" target="_blank">](https://www.github.com/patrickbrendel) | [<img src="https://patrickbrendel.github.io/resources/linkedin.svg" width="50" target="_blank">](https://www.linkedin.com/in/patrick-brendel-06b8713b) | [<img src="https://patrickbrendel.github.io/resources/twitter.svg" width="50" target="_blank">](https://www.twitter.com/pbrendel)
 
-</center>
 <!---
 Disclosure: Github, LinkedIn and Twitter logos downloaded from www.svgporn.com 
 -->
