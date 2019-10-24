@@ -1,7 +1,6 @@
 ## Stuff I've been working on
 
-<details>
-  <summary>Charts, graphs, maps</summary>
+#### Charts, graphs, maps
 
 [Map of auto accidents involving cyclists or pedestrians](https://www.caymancompass.com/2019/09/11/44-cyclists-injured-on-cayman-roads-in-one-year/)
 
@@ -20,16 +19,14 @@
 [Bar graph for audit opinions](https://www.caymancompass.com/2019/06/13/winspear-gives-clean-audits-to-35-agencies/)
 </details>
 
-<details>
-<summary>DocumentCloud</summary>
+#### DocumentCloud
   
 [Project directory embed for royal visit expenses](https://www.caymancompass.com/2019/08/22/royal-visit-cost-cayman-more-than-300000/)
 
 [Project directory embed for animal cruelty cases](https://www.caymancompass.com/2019/08/15/69-animal-cruelty-or-neglect-cases-reported-in-2018/)
 </details>
 
-<details>
-<summary>Opinion writing</summary>
+#### Opinion writing
 
 [Cayman Compass 'Editorial Year in Review' for 2016](https://www.caymancompass.com/2016/12/28/editorial-year-in-review/)
 
