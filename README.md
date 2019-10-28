@@ -37,6 +37,8 @@
 [Cayman Compass 'Editorial Year in Review' for 2014](https://www.caymancompass.com/2014/12/30/echoes-of-2014-a-year-of-strong-editorial-opinions-in-the-compass/)
 
 #### Minisites for special reports
+[Cayman Islands 2017 Elections](https://www.caymancompass.com/elections-2017/)
+
 [Labor Reform in Cayman](http://www.compassdatadesk.com/special-report-labor-reform-cayman/)
 
 [The Dock Debate](http://www.compassdatadesk.com/the-dock-debate/)
