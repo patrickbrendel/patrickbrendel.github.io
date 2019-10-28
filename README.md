@@ -36,6 +36,13 @@
 
 [Cayman Compass 'Editorial Year in Review' for 2014](https://www.caymancompass.com/2014/12/30/echoes-of-2014-a-year-of-strong-editorial-opinions-in-the-compass/)
 
+#### Minisites for special reports
+[Labor Reform in Cayman](http://www.compassdatadesk.com/special-report-labor-reform-cayman/)
+
+[The Dock Debate](http://www.compassdatadesk.com/the-dock-debate/)
+
+[FIFA Scandal Coverage](http://www.compassdatadesk.com/fifa-coverage-cayman-compass/)
+
 #### Resume
 [View my resume.](https://docs.google.com/document/d/14jUzFTlDw4pm8-TrX5sL3CYXJlxY9RtcdK1lit8-iQY/edit?usp=sharing)
 
