@@ -38,6 +38,12 @@
 
 #### Investigations, features, story packages
 
+##### Liquor licensing, September 2017
+
+[EDITORIAL – Liquor Board must resign en masse](https://www.caymancompass.com/2017/09/28/editorial-liquor-board-must-resign-en-masse/)
+
+[Audit: Liquor Board reversed decision, altered minutes](https://www.caymancompass.com/2017/09/28/audit-liquor-board-reversed-decision-altered-minutes/)
+
 ##### Social welfare reform, August 2017
 
 [EDITORIAL – A ‘needs assessment’ of our welfare services](https://www.caymancompass.com/2017/08/31/editorial-a-needs-assessment-of-our-welfare-services/)
@@ -49,6 +55,12 @@
 [Veterans ask: Who’s receiving ‘veterans’ payments?](https://www.caymancompass.com/2017/08/31/veterans-ask-whos-receiving-veterans-payments/)
 
 [Social services: Echoes from 43 years ago](https://www.caymancompass.com/2017/08/31/social-services-echoes-from-43-years-ago/)
+
+##### Cuban migrant crisis
+
+[EDITORIAL – Cuban migration: Cayman’s conundrum](https://www.caymancompass.com/2017/08/27/editorial-cuban-migration-caymans-conundrum/)
+
+[Cuba to Cayman: One migrant’s saga](https://www.caymancompass.com/2017/08/24/cuba-to-cayman-one-migrants-saga/)
 
 #### Minisites for special reports
 
