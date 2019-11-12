@@ -36,7 +36,22 @@
 
 [Cayman Compass 'Editorial Year in Review' for 2014](https://www.caymancompass.com/2014/12/30/echoes-of-2014-a-year-of-strong-editorial-opinions-in-the-compass/)
 
+#### Investigations, features, story packages
+
+##### Social welfare reform, August 2017
+
+[EDITORIAL – A ‘needs assessment’ of our welfare services](https://www.caymancompass.com/2017/08/31/editorial-a-needs-assessment-of-our-welfare-services/)
+
+[Seeking shelter: Life below the poverty line](https://www.caymancompass.com/2017/08/31/seeking-shelter-life-below-the-poverty-line/)
+
+[Social welfare quagmire: A decade of inefficiencies & rising costs](https://www.caymancompass.com/2017/08/31/social-welfare-quagmire-decade-of-inefficiencies-rising-costs/)
+
+[Veterans ask: Who’s receiving ‘veterans’ payments?](https://www.caymancompass.com/2017/08/31/veterans-ask-whos-receiving-veterans-payments/)
+
+[Social services: Echoes from 43 years ago](https://www.caymancompass.com/2017/08/31/social-services-echoes-from-43-years-ago/)
+
 #### Minisites for special reports
+
 [Cayman Islands 2017 Elections](https://www.caymancompass.com/elections-2017/)
 
 [Labor Reform in Cayman](http://www.compassdatadesk.com/special-report-labor-reform-cayman/)
