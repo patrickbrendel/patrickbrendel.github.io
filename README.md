@@ -46,7 +46,7 @@
 [FIFA Scandal Coverage](http://www.compassdatadesk.com/fifa-coverage-cayman-compass/)
 
 #### Resume
-[View my resume.](https://docs.google.com/document/d/14jUzFTlDw4pm8-TrX5sL3CYXJlxY9RtcdK1lit8-iQY/edit?usp=sharing)
+[View my resume.](https://docs.google.com/document/d/1E4Ml1afuDkbE7NUZolfD6Dta_XTpJyKPCNjYQqrLs7A/edit?usp=sharing)
 
 #### Find me online
 
