@@ -2,7 +2,7 @@
 
 #### Data/visuals
 
-<details><summary>Charts, graphs, maps</summmary>
+<details><summary>Charts, graphs, maps</summary>
   
   <p><a href="https://www.caymancompass.com/2019/09/11/44-cyclists-injured-on-cayman-roads-in-one-year/">Map of auto accidents involving cyclists or pedestrians</a></p>
   
@@ -20,13 +20,15 @@
   
   <p><a href="https://www.caymancompass.com/2019/06/13/winspear-gives-clean-audits-to-35-agencies/">Bar graph for audit opinions</a></p>
 
-  </details>
+</details>
 
-#### DocumentCloud
+<details><summary>DocumentCloud</summary>
   
-[Project directory embed for royal visit expenses](https://www.caymancompass.com/2019/08/22/royal-visit-cost-cayman-more-than-300000/)
-
-[Project directory embed for animal cruelty cases](https://www.caymancompass.com/2019/08/15/69-animal-cruelty-or-neglect-cases-reported-in-2018/)
+  <p><a href="https://www.caymancompass.com/2019/08/22/royal-visit-cost-cayman-more-than-300000/">Project directory embed for royal visit expenses</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/08/15/69-animal-cruelty-or-neglect-cases-reported-in-2018/">Project directory embed for animal cruelty cases</a></p>
+  
+</details>
 
 #### Opinion writing
 
