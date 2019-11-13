@@ -40,21 +40,17 @@
 
 <details><summary>Beneficial ownership registers, May 2018</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2018/05/03/betrayal/">EDITORIAL – Betrayal!</a></p>
   
-  <a href="https://www.caymancompass.com/2018/05/03/betrayal/">EDITORIAL – Betrayal!</a>
+  <p><a href="https://www.caymancompass.com/2018/05/03/international-press-has-little-sympathy-for-dirty-money-tax-havens/">International press has little sympathy for ‘dirty money’ ‘tax havens’</a></p>
   
-  <a href="https://www.caymancompass.com/2018/05/03/international-press-has-little-sympathy-for-dirty-money-tax-havens/">International press has little sympathy for ‘dirty money’ ‘tax havens’</a>
+  <p><a href="https://www.caymancompass.com/2018/05/03/how-it-happened-the-uk-house-of-commons-vote/">How it happened: The UK House of Commons vote</a></p>
   
-  <a href="https://www.caymancompass.com/2018/05/03/how-it-happened-the-uk-house-of-commons-vote/">How it happened: The UK House of Commons vote</a>
+  <p><a href="https://www.caymancompass.com/2018/05/02/government-to-challenge-order-in-council/">Government to challenge order in council by UK</a></p>
   
-  <a href="https://www.caymancompass.com/2018/05/02/government-to-challenge-order-in-council/">Government to challenge order in council by UK</a>
+  <p><a href="https://www.caymancompass.com/2018/05/02/overseas-territories-accuse-britain-of-modern-colonialism/">Overseas territories accuse Britain of ‘modern colonialism’</a></p>
   
-  <a href="https://www.caymancompass.com/2018/05/02/overseas-territories-accuse-britain-of-modern-colonialism/">Overseas territories accuse Britain of ‘modern colonialism’</a>
-  
-  <a href="https://www.caymancompass.com/2018/05/01/uk-to-force-cayman-territories-to-make-company-owners-public/">[UK to force Cayman, territories to make company owners public</a>
-
-</p>
+  <p><a href="https://www.caymancompass.com/2018/05/01/uk-to-force-cayman-territories-to-make-company-owners-public/">[UK to force Cayman, territories to make company owners public</a></p>
 </details>
 
 <details><summary>Medical waste disposal, May 2018</summary>
