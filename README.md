@@ -83,7 +83,7 @@
   
   <p><a href="https://www.caymancompass.com/2018/01/18/jury-duty-when-the-court-calls/">Jury duty: When the court calls</a></p>
   
-  <p><a href"https://www.caymancompass.com/2018/01/18/juror-pay-and-employer-obligations/">Juror pay and employer obligations</a></p>
+  <p><a href="https://www.caymancompass.com/2018/01/18/juror-pay-and-employer-obligations/">Juror pay and employer obligations</a></p>
   
   </details>
 
