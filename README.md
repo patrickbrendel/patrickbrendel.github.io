@@ -50,53 +50,42 @@
   
   <p><a href="https://www.caymancompass.com/2018/05/02/overseas-territories-accuse-britain-of-modern-colonialism/">Overseas territories accuse Britain of ‘modern colonialism’</a></p>
   
-  <p><a href="https://www.caymancompass.com/2018/05/01/uk-to-force-cayman-territories-to-make-company-owners-public/">[UK to force Cayman, territories to make company owners public</a></p>
+  <p><a href="https://www.caymancompass.com/2018/05/01/uk-to-force-cayman-territories-to-make-company-owners-public/">UK to force Cayman, territories to make company owners public</a></p>
 </details>
 
 <details><summary>Medical waste disposal, May 2018</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2018/05/09/editorial-bracs-untreated-medical-waste-is-a-pan-cayman-problem/">EDITORIAL – Brac’s untreated medical waste is a ‘pan-Cayman’ problem</a></p>
   
-  [EDITORIAL – Brac’s untreated medical waste is a ‘pan-Cayman’ problem](https://www.caymancompass.com/2018/05/09/editorial-bracs-untreated-medical-waste-is-a-pan-cayman-problem/)
+  <p><a href="https://www.caymancompass.com/2018/05/07/untreated-biomedical-waste-dumped-at-brac-landfill/">Untreated biomedical waste dumped at Brac landfill</a></p>
   
-  [Untreated biomedical waste dumped at Brac landfill](https://www.caymancompass.com/2018/05/07/untreated-biomedical-waste-dumped-at-brac-landfill/)
-  
-  </p>
   </details>
 
 <details><summary>Airport overload, April 2018</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2018/04/05/editorial-eliminating-the-saturday-gridlock-at-owen-roberts/">EDITORIAL – Eliminating the Saturday gridlock at Owen Roberts</a></p>
   
-  [EDITORIAL – Eliminating the Saturday gridlock at Owen Roberts](https://www.caymancompass.com/2018/04/05/editorial-eliminating-the-saturday-gridlock-at-owen-roberts/)
+  <p><a href="https://www.caymancompass.com/2018/04/05/compass-investigation-dissecting-the-airport-bottleneck/">Dissecting the airport bottleneck</a></p>
   
-  [Dissecting the airport bottleneck](https://www.caymancompass.com/2018/04/05/compass-investigation-dissecting-the-airport-bottleneck/)
-  
-  </p>
   </details>
 
 <details><summary>Telecommunications industry, March 2018</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2018/03/22/compass-investigation-cayman-communications-from-telegrams-to-broadband/">Cayman communications: From telegrams to broadband</a></p>
   
-  [Cayman communications: From telegrams to broadband](https://www.caymancompass.com/2018/03/22/compass-investigation-cayman-communications-from-telegrams-to-broadband/)
+  <p><a href="https://www.caymancompass.com/2018/03/22/subsea-cables-another-means-of-improving-internet-service/">Subsea cables: Another means of improving internet service</a></p>
   
-  [Subsea cables: Another means of improving internet service](https://www.caymancompass.com/2018/03/22/subsea-cables-another-means-of-improving-internet-service/)
+  <p><a href="https://www.caymancompass.com/2018/03/22/where-cayman-ranks-in-internet-speed-price/">Where Cayman ranks in internet speed, price</a></p>
   
-  [Where Cayman ranks in internet speed, price](https://www.caymancompass.com/2018/03/22/where-cayman-ranks-in-internet-speed-price/)
-  
-  </p>
   </details>
 
 <details><summary>Water system, March 2018</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2018/03/15/compass-investigation-caymans-water-where-it-comes-from-where-it-goes/">Cayman’s water – Where it comes from, where it goes …</a></p>
   
-  [Cayman’s water – Where it comes from, where it goes …](https://www.caymancompass.com/2018/03/15/compass-investigation-caymans-water-where-it-comes-from-where-it-goes/)
+  <p><a href="https://www.caymancompass.com/2018/03/15/dealing-with-wastewater/">Dealing with wastewater</a></p>
   
-  [Dealing with wastewater](https://www.caymancompass.com/2018/03/15/dealing-with-wastewater/)
-  
-  </p></details>
+  </details>
 
 <details><summary>Judicial and legal reform, March 2018</summary>
   
