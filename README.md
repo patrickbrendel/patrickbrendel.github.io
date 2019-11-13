@@ -1,52 +1,6 @@
-## Stuff I've been working on
+## Stuff I've done
 
-#### Data/visuals
-
-<details><summary>Charts, graphs, maps</summary>
-  
-  <p><a href="https://www.caymancompass.com/2019/09/11/44-cyclists-injured-on-cayman-roads-in-one-year/">Map of auto accidents involving cyclists or pedestrians</a></p>
-  
-  <p><a href="https://www.caymancompass.com/2019/09/10/signature-verification-reaches-99/">Table for petition verification process</a></p>
-  
-  <p><a href="https://www.caymancompass.com/2019/09/08/rents-rise-nearly-20-within-a-year/">Bar graphs for inflation rates</a></p>
-  
-  <p><a href="https://www.caymancompass.com/2019/09/03/standards-report-challenges-remain-for-cayman-schools/">Table for school inspection reports</a></p>
-  
-  <p><a href="https://www.caymancompass.com/2019/08/28/student-test-scores-show-more-work-needs-to-be-done/">Bar graphs for student test scores</a></p>
-  
-  <p><a href="https://www.caymancompass.com/2019/07/10/new-gateways-drive-tourism-growth/">Interactive map and chart for air travel</a></p>
-  
-  <p><a href="https://www.caymancompass.com/2019/06/24/wage-survey-shows-caymanians-earn-more-than-expat-workers/">Bar graphs for wage info</a></p>
-  
-  <p><a href="https://www.caymancompass.com/2019/06/13/winspear-gives-clean-audits-to-35-agencies/">Bar graph for audit opinions</a></p>
-
-</details>
-
-<details><summary>DocumentCloud</summary>
-  
-  <p><a href="https://www.caymancompass.com/2019/08/22/royal-visit-cost-cayman-more-than-300000/">Project directory embed for royal visit expenses</a></p>
-  
-  <p><a href="https://www.caymancompass.com/2019/08/15/69-animal-cruelty-or-neglect-cases-reported-in-2018/">Project directory embed for animal cruelty cases</a></p>
-  
-</details>
-
-#### Opinion writing
-
-<details><summary>'Editorial Year in Reviews' for 2014-2016</summary>
-  
-  <p><a href="https://www.caymancompass.com/2016/12/28/editorial-year-in-review/">Cayman Compass 'Editorial Year in Review' for 2016</a></p>
-  
-  <p><a href="https://www.caymancompass.com/2015/12/31/editorial-year-in-review-fifa-corruption/">Cayman Compass 'Editorial Year in Review' for 2015: FIFA, Corruption</a></p>
-  
-  <p><a href="https://www.caymancompass.com/2015/12/29/editorial-year-in-review-immigration-and-employment/">Cayman Compass 'Editorial Year in Review' for 2015: Immigration and Employment</a></p>
-  
-  <p><a href="https://www.caymancompass.com/2015/12/30/editorial-year-in-review-economic-prosperity-education/">Cayman Compass 'Editorial Year in Review' for 2015: Economic Prosperity and Education</a></p>
-  
-  <p><a href="https://www.caymancompass.com/2014/12/30/echoes-of-2014-a-year-of-strong-editorial-opinions-in-the-compass/">Cayman Compass 'Editorial Year in Review' for 2014</a></p>
-  
-  </details>
-
-#### Investigations, features, story packages
+### Investigations, features, story packages
 
 <details><summary>Beneficial ownership registers, May 2018</summary>
   
@@ -172,8 +126,54 @@
   <p><a href="https://www.caymancompass.com/2017/08/24/cuba-to-cayman-one-migrants-saga/">Cuba to Cayman: One migrant’s saga</a></p>
   
   </details>
+  
+### Opinion writing
 
-#### Minisites for special reports
+<details><summary>'Editorial Year in Reviews' for 2014-2016</summary>
+  
+  <p><a href="https://www.caymancompass.com/2016/12/28/editorial-year-in-review/">Cayman Compass 'Editorial Year in Review' for 2016</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2015/12/31/editorial-year-in-review-fifa-corruption/">Cayman Compass 'Editorial Year in Review' for 2015: FIFA, Corruption</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2015/12/29/editorial-year-in-review-immigration-and-employment/">Cayman Compass 'Editorial Year in Review' for 2015: Immigration and Employment</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2015/12/30/editorial-year-in-review-economic-prosperity-education/">Cayman Compass 'Editorial Year in Review' for 2015: Economic Prosperity and Education</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2014/12/30/echoes-of-2014-a-year-of-strong-editorial-opinions-in-the-compass/">Cayman Compass 'Editorial Year in Review' for 2014</a></p>
+  
+  </details>
+
+### Data/visuals
+
+<details><summary>Charts, graphs, maps</summary>
+  
+  <p><a href="https://www.caymancompass.com/2019/09/11/44-cyclists-injured-on-cayman-roads-in-one-year/">Map of auto accidents involving cyclists or pedestrians</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/09/10/signature-verification-reaches-99/">Table for petition verification process</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/09/08/rents-rise-nearly-20-within-a-year/">Bar graphs for inflation rates</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/09/03/standards-report-challenges-remain-for-cayman-schools/">Table for school inspection reports</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/08/28/student-test-scores-show-more-work-needs-to-be-done/">Bar graphs for student test scores</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/07/10/new-gateways-drive-tourism-growth/">Interactive map and chart for air travel</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/06/24/wage-survey-shows-caymanians-earn-more-than-expat-workers/">Bar graphs for wage info</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/06/13/winspear-gives-clean-audits-to-35-agencies/">Bar graph for audit opinions</a></p>
+
+</details>
+
+<details><summary>DocumentCloud</summary>
+  
+  <p><a href="https://www.caymancompass.com/2019/08/22/royal-visit-cost-cayman-more-than-300000/">Project directory embed for royal visit expenses</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/08/15/69-animal-cruelty-or-neglect-cases-reported-in-2018/">Project directory embed for animal cruelty cases</a></p>
+  
+</details>
+
+### Minisites for special reports
 
 [Cayman Islands 2017 Elections](https://www.caymancompass.com/elections-2017/)
 
@@ -183,10 +183,10 @@
 
 [FIFA Scandal Coverage](http://www.compassdatadesk.com/fifa-coverage-cayman-compass/)
 
-#### Resume
+### Resume
 [View my resume.](https://docs.google.com/document/d/1E4Ml1afuDkbE7NUZolfD6Dta_XTpJyKPCNjYQqrLs7A/edit?usp=sharing)
 
-#### Find me online
+### Find me online
 
 [<img src="https://patrickbrendel.github.io/resources/compass-logo.jpg" width="50" target="_blank">](https://www.caymancompass.com/newsroom-staff/patrick-brendel/) &nbsp; [<img src="https://patrickbrendel.github.io/resources/github-icon.svg" width="50" target="_blank">](https://www.github.com/patrickbrendel) &nbsp; [<img src="https://patrickbrendel.github.io/resources/linkedin.svg" width="50" target="_blank">](https://www.linkedin.com/in/patrick-brendel-06b8713b) &nbsp; [<img src="https://patrickbrendel.github.io/resources/twitter.svg" width="50" target="_blank">](https://www.twitter.com/pbrendel)
 
