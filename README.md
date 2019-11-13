@@ -12,11 +12,11 @@
   
   <p><a href="https://www.caymancompass.com/2019/09/03/standards-report-challenges-remain-for-cayman-schools/">Table for school inspection reports</a></p>
   
-  <p><a href="https://www.caymancompass.com/2019/08/28/student-test-scores-show-more-work-needs-to-be-done/>Bar graphs for student test scores</a></p>
+  <p><a href="https://www.caymancompass.com/2019/08/28/student-test-scores-show-more-work-needs-to-be-done/">Bar graphs for student test scores</a></p>
   
   <p><a href="https://www.caymancompass.com/2019/07/10/new-gateways-drive-tourism-growth/">Interactive map and chart for air travel</a></p>
   
-  <p><a href="https://www.caymancompass.com/2019/06/24/wage-survey-shows-caymanians-earn-more-than-expat-workers/>Bar graphs for wage info</a></p>
+  <p><a href="https://www.caymancompass.com/2019/06/24/wage-survey-shows-caymanians-earn-more-than-expat-workers/">Bar graphs for wage info</a></p>
   
   <p><a href="https://www.caymancompass.com/2019/06/13/winspear-gives-clean-audits-to-35-agencies/">Bar graph for audit opinions</a></p>
 
@@ -32,15 +32,19 @@
 
 #### Opinion writing
 
-[Cayman Compass 'Editorial Year in Review' for 2016](https://www.caymancompass.com/2016/12/28/editorial-year-in-review/)
-
-[Cayman Compass 'Editorial Year in Review' for 2015: FIFA, Corruption](https://www.caymancompass.com/2015/12/31/editorial-year-in-review-fifa-corruption/)
-
-[Cayman Compass 'Editorial Year in Review' for 2015: Immigration and Employment](https://www.caymancompass.com/2015/12/29/editorial-year-in-review-immigration-and-employment/)
-
-[Cayman Compass 'Editorial Year in Review' for 2015: Economic Prosperity and Education](https://www.caymancompass.com/2015/12/30/editorial-year-in-review-economic-prosperity-education/)
-
-[Cayman Compass 'Editorial Year in Review' for 2014](https://www.caymancompass.com/2014/12/30/echoes-of-2014-a-year-of-strong-editorial-opinions-in-the-compass/)
+<details><summary>'Editorial Year in Reviews' for 2014-2016</summary>
+  
+  <p><a href="https://www.caymancompass.com/2016/12/28/editorial-year-in-review/">Cayman Compass 'Editorial Year in Review' for 2016</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2015/12/31/editorial-year-in-review-fifa-corruption/">Cayman Compass 'Editorial Year in Review' for 2015: FIFA, Corruption</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2015/12/29/editorial-year-in-review-immigration-and-employment/">Cayman Compass 'Editorial Year in Review' for 2015: Immigration and Employment</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2015/12/30/editorial-year-in-review-economic-prosperity-education/">Cayman Compass 'Editorial Year in Review' for 2015: Economic Prosperity and Education</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2014/12/30/echoes-of-2014-a-year-of-strong-editorial-opinions-in-the-compass/">Cayman Compass 'Editorial Year in Review' for 2014</a></p>
+  
+  </summary>
 
 #### Investigations, features, story packages
 
