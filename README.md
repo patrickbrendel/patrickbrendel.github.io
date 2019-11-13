@@ -2,6 +2,30 @@
 
 ### Investigations, features, story packages
 
+<details><summary>Cruise port petition drive, February 2019</summary>
+  
+  <p><a href="https://www.caymancompass.com/2019/02/07/editorial-petition-organizers-why-the-reluctance-to-share-your-numbers/">EDITORIAL – Petition organizers: Why the reluctance to share your numbers?</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/02/07/cruise-port-petition-puts-dock-debate-on-collision-course/">Cruise port petition puts dock debate on collision course</a></p>
+  
+  </details>
+
+<details><summary>Addiction recovery farm feature, January 2019</summary>
+  
+  <p><a href="https://www.caymancompass.com/2019/01/24/editorial-recognizing-and-hopefully-encouraging-all-at-beacon-farms/">EDITORIAL – Recognizing and hopefully encouraging all at Beacon Farms</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/01/24/a-beacon-of-hope-for-recovering-addicts/">A beacon of hope for recovering addicts</a></p>
+  
+  </details>
+
+<details><summary>Development trends, January 2019</summary>
+  
+  <p><a href="https://www.caymancompass.com/2019/01/17/editorial-cayman-property-good-news-from-the-home-front/">EDITORIAL – Cayman property: Good news from the ‘home front’</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/01/17/no-place-like-home-caymans-residential-property-boom/">‘No place like home’: Cayman’s residential property boom</a></p>
+  
+  </details>
+
 <details><summary>Historical Christmas feature, December 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/12/20/remembrances-of-christmases-past-wild-fowl-weeping-willow-and-junkanoo/">Remembrances of Christmases past: Wild fowl, weeping willow and Junkanoo</a></p>
