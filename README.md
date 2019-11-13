@@ -2,6 +2,55 @@
 
 ### Investigations, features, story packages
 
+<details><summary>Historical Christmas feature, December 2018</summary>
+  
+  <p><a href="https://www.caymancompass.com/2018/12/20/remembrances-of-christmases-past-wild-fowl-weeping-willow-and-junkanoo/">Remembrances of Christmases past: Wild fowl, weeping willow and Junkanoo</a></p>
+  
+  </details>
+
+<details><summary>Barkers National Park, December 2018</summary>
+  
+  <p><a href="https://www.caymancompass.com/2018/12/13/editorial-barkers-park-and-principles-of-private-property/">EDITORIAL – ‘Barkers Park’ and principles of private property</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2018/12/13/barkers-in-the-balance/">Barkers in the balance</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2018/12/13/barkers-national-park-a-series-of-false-starts/">Barkers National Park: A series of false starts</a></p>
+  
+  </details>
+  
+<details><summary>Government church-building project, December 2018</summary>
+  
+  <p><a href="https://www.caymancompass.com/2018/12/06/nation-building-round-two/">‘Nation Building’: Round Two?</a></p>
+  
+  </details>
+
+<details><summary>Green iguana culling program, November 2018</summary>
+  
+  <p><a href="https://www.caymancompass.com/2018/11/16/editorial-caymans-cullers-have-invasive-iguanas-at-bay/">EDITORIAL – Cayman’s cullers have invasive iguanas at bay</a></p>
+  <p><a href="https://www.caymancompass.com/2018/11/16/the-green-iguana-gold-rush/">The green iguana gold rush</a></p>
+  
+  </details>
+
+<details><summary>Special-needs training center, October 2018</summary>
+  
+  <p><a href="https://www.caymancompass.com/2018/10/11/editorial-seeking-a-new-beginning-for-sunrise-centre/">EDITORIAL – Seeking a new beginning for Sunrise Centre</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2018/10/11/cramped-quarters-restrict-special-needs-training/">Cramped quarters restrict special-needs training</a></p>
+  
+  </details>
+
+<details><summary>Cruise dock debate, September 2018</summary>
+
+  <p><a href="https://www.caymancompass.com/2018/09/20/editorial-cruise-pier-to-be-or-not-to-be/">EDITORIAL – Cruise pier: To be or not to be?</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2018/09/20/community-groups-battle-for-hearts-and-minds-in-port-debate/">Community groups battle for hearts and minds in port debate</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2018/09/20/moses-kirkconnell-why-we-need-cruise-berthing-piers/">Moses Kirkconnell: ​Why we need cruise berthing piers</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2018/09/20/ezzard-miller-the-argument-against-cruise-piers/">Ezzard Miller: The argument against cruise piers</a></p>
+  
+  </details>
+  
 <details><summary>Beneficial ownership registers, May 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/05/03/betrayal/">EDITORIAL – Betrayal!</a></p>
