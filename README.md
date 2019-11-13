@@ -42,11 +42,11 @@
   
   <p>
   
-  [EDITORIAL – Betrayal!](https://www.caymancompass.com/2018/05/03/betrayal/)
+  <a href="https://www.caymancompass.com/2018/05/03/betrayal/>EDITORIAL – Betrayal!</a>
   
-  [International press has little sympathy for ‘dirty money’ ‘tax havens’](https://www.caymancompass.com/2018/05/03/international-press-has-little-sympathy-for-dirty-money-tax-havens/)
+  <a href="https://www.caymancompass.com/2018/05/03/international-press-has-little-sympathy-for-dirty-money-tax-havens/">International press has little sympathy for ‘dirty money’ ‘tax havens’</a>
   
-  [How it happened: The UK House of Commons vote](https://www.caymancompass.com/2018/05/03/how-it-happened-the-uk-house-of-commons-vote/)
+  <a href="https://www.caymancompass.com/2018/05/03/how-it-happened-the-uk-house-of-commons-vote/">How it happened: The UK House of Commons vote</a>
   
   [Government to challenge order in council by UK](https://www.caymancompass.com/2018/05/02/government-to-challenge-order-in-council/)
   
