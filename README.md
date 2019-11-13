@@ -1,22 +1,26 @@
 ## Stuff I've been working on
 
-#### Charts, graphs, maps
+#### Data/visuals
 
-[Map of auto accidents involving cyclists or pedestrians](https://www.caymancompass.com/2019/09/11/44-cyclists-injured-on-cayman-roads-in-one-year/)
+<details><summary>Charts, graphs, maps</summmary>
+  
+  <p><a href="https://www.caymancompass.com/2019/09/11/44-cyclists-injured-on-cayman-roads-in-one-year/">Map of auto accidents involving cyclists or pedestrians</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/09/10/signature-verification-reaches-99/">Table for petition verification process</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/09/08/rents-rise-nearly-20-within-a-year/">Bar graphs for inflation rates</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/09/03/standards-report-challenges-remain-for-cayman-schools/">Table for school inspection reports</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/08/28/student-test-scores-show-more-work-needs-to-be-done/>Bar graphs for student test scores</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/07/10/new-gateways-drive-tourism-growth/">Interactive map and chart for air travel</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/06/24/wage-survey-shows-caymanians-earn-more-than-expat-workers/>Bar graphs for wage info</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/06/13/winspear-gives-clean-audits-to-35-agencies/">Bar graph for audit opinions</a></p>
 
-[Table for petition verification process](https://www.caymancompass.com/2019/09/10/signature-verification-reaches-99/)
-
-[Bar graphs for inflation rates](https://www.caymancompass.com/2019/09/08/rents-rise-nearly-20-within-a-year/)
-
-[Table for school inspection reports](https://www.caymancompass.com/2019/09/03/standards-report-challenges-remain-for-cayman-schools/)
-
-[Bar graphs for student test scores](https://www.caymancompass.com/2019/08/28/student-test-scores-show-more-work-needs-to-be-done/)
-
-[Interactive map and chart for air travel](https://www.caymancompass.com/2019/07/10/new-gateways-drive-tourism-growth/)
-
-[Bar graphs for wage info](https://www.caymancompass.com/2019/06/24/wage-survey-shows-caymanians-earn-more-than-expat-workers/)
-
-[Bar graph for audit opinions](https://www.caymancompass.com/2019/06/13/winspear-gives-clean-audits-to-35-agencies/)
+  </details>
 
 #### DocumentCloud
   
