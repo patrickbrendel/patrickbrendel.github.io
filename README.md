@@ -89,95 +89,79 @@
 
 <details><summary>Judicial and legal reform, March 2018</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2018/03/08/editorial-when-convictions-go-unrecorded-in-our-courts/">EDITORIAL – When convictions go unrecorded in our courts</a></p>
   
-  [For select few, ‘no conviction’](https://www.caymancompass.com/2018/03/08/compass-investigation-for-select-few-no-conviction/)
-  
-  [When convictions go unrecorded in our courts](https://www.caymancompass.com/2018/03/08/editorial-when-convictions-go-unrecorded-in-our-courts/)
-  
-  </p></details>
+  <p><a href="https://www.caymancompass.com/2018/03/08/compass-investigation-for-select-few-no-conviction/">For select few, ‘no conviction’</a></p>
+ 
+  </details>
 
 <details><summary>Police bail, March 2018</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2018/03/01/editorial-the-injustice-of-open-ended-police-bail/">EDITORIAL – The injustice of open-ended police bail</a></p>
   
-  [EDITORIAL – The injustice of open-ended police bail](https://www.caymancompass.com/2018/03/01/editorial-the-injustice-of-open-ended-police-bail/)
+  <p><a href="https://www.caymancompass.com/2018/03/01/compass-investigative-report-99-suspects-on-police-bail-without-charges/">99 suspects on police bail without charges</a></p>
   
-  [99 suspects on police bail without charges](https://www.caymancompass.com/2018/03/01/compass-investigative-report-99-suspects-on-police-bail-without-charges/)
+  <p><a href="https://www.caymancompass.com/2018/03/01/unlimited-police-bail-could-face-legal-challenge/">Unlimited police bail could face legal challenge</a></p>
   
-  [Unlimited police bail could face legal challenge](https://www.caymancompass.com/2018/03/01/unlimited-police-bail-could-face-legal-challenge/)
-  
-  </p></details>
+  </details>
 
 <details><summary>Financial services sector, January 2018</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2018/01/25/editorial-paying-homage-to-caymans-essential-invisible-giant/">EDITORIAL – Paying homage to Cayman’s essential ‘invisible’ giant</a></p>
   
-  [EDITORIAL – Paying homage to Cayman’s essential ‘invisible’ giant](https://www.caymancompass.com/2018/01/25/editorial-paying-homage-to-caymans-essential-invisible-giant/)
+  <p><a href="https://www.caymancompass.com/2018/01/25/financial-services-industry-caymans-invisible-giant/">Financial services industry: Cayman’s ‘invisible’ giant</a></p>
   
-  [Financial services industry: Cayman’s ‘invisible’ giant](https://www.caymancompass.com/2018/01/25/financial-services-industry-caymans-invisible-giant/)
-  
-  </p></details>
+  </details>
 
 <details><summary>Courts system, January 2018</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2018/01/18/editorial-support-the-court-build-the-building/">EDITORIAL: Support the court — Build the building</a></p>
   
-  [EDITORIAL: Support the court — Build the building](https://www.caymancompass.com/2018/01/18/editorial-support-the-court-build-the-building/)
+  <p><a href="https://www.caymancompass.com/2018/01/18/jury-duty-when-the-court-calls/">Jury duty: When the court calls</a></p>
   
-  [Jury duty: When the court calls](https://www.caymancompass.com/2018/01/18/jury-duty-when-the-court-calls/)
+  <p><a href"https://www.caymancompass.com/2018/01/18/juror-pay-and-employer-obligations/">Juror pay and employer obligations</a></p>
   
-  [Juror pay and employer obligations](https://www.caymancompass.com/2018/01/18/juror-pay-and-employer-obligations/)
-  
-  </p></details>
+  </details>
 
 <details><summary>Centenarians feature, January 2018</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2018/01/11/editorial-an-overflowing-cakeful-of-candles-to-our-cayman-centenarians/">EDITORIAL – An overflowing cakeful of candles to our Cayman centenarians</a></p>
   
-  [EDITORIAL – An overflowing cakeful of candles to our Cayman centenarians](https://www.caymancompass.com/2018/01/11/editorial-an-overflowing-cakeful-of-candles-to-our-cayman-centenarians/)
+  <p><a href="https://www.caymancompass.com/2018/01/11/celebrating-caymans-centenarians/">Celebrating Cayman’s centenarians</a></p>
   
-  [Celebrating Cayman’s centenarians](https://www.caymancompass.com/2018/01/11/celebrating-caymans-centenarians/)
+  <p><a href="https://www.caymancompass.com/2018/01/11/seniors-centenarians-and-supercentenarians/">Seniors, centenarians and ‘supercentenarians’</a></p>
   
-  [Seniors, centenarians and ‘supercentenarians’](https://www.caymancompass.com/2018/01/11/seniors-centenarians-and-supercentenarians/)
-  
-  </p></details>
+  </details>
 
 <details><summary>Liquor licensing, September 2017</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2017/09/28/editorial-liquor-board-must-resign-en-masse/">EDITORIAL – Liquor Board must resign en masse</a></p>
   
-  [EDITORIAL – Liquor Board must resign en masse](https://www.caymancompass.com/2017/09/28/editorial-liquor-board-must-resign-en-masse/)
+  <p><a href="https://www.caymancompass.com/2017/09/28/audit-liquor-board-reversed-decision-altered-minutes/">Audit: Liquor Board reversed decision, altered minutes</a></p>
   
-  [Audit: Liquor Board reversed decision, altered minutes](https://www.caymancompass.com/2017/09/28/audit-liquor-board-reversed-decision-altered-minutes/)
-  
-  </p></details>
+  </details>
 
 <details><summary>Social welfare reform, August 2017</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2017/08/31/editorial-a-needs-assessment-of-our-welfare-services/">EDITORIAL – A ‘needs assessment’ of our welfare services</a></p>
   
-  [EDITORIAL – A ‘needs assessment’ of our welfare services](https://www.caymancompass.com/2017/08/31/editorial-a-needs-assessment-of-our-welfare-services/)
+  <p><a href="https://www.caymancompass.com/2017/08/31/seeking-shelter-life-below-the-poverty-line/">Seeking shelter: Life below the poverty line</a></p>
   
-  [Seeking shelter: Life below the poverty line](https://www.caymancompass.com/2017/08/31/seeking-shelter-life-below-the-poverty-line/)
+  <p><a href="https://www.caymancompass.com/2017/08/31/social-welfare-quagmire-decade-of-inefficiencies-rising-costs/">Social welfare quagmire: A decade of inefficiencies & rising costs</a></p>
   
-  [Social welfare quagmire: A decade of inefficiencies & rising costs](https://www.caymancompass.com/2017/08/31/social-welfare-quagmire-decade-of-inefficiencies-rising-costs/)
+  <p><a href="https://www.caymancompass.com/2017/08/31/veterans-ask-whos-receiving-veterans-payments/">Veterans ask: Who’s receiving ‘veterans’ payments?</a></p>
   
-  [Veterans ask: Who’s receiving ‘veterans’ payments?](https://www.caymancompass.com/2017/08/31/veterans-ask-whos-receiving-veterans-payments/)
+  <p><a href="https://www.caymancompass.com/2017/08/31/social-services-echoes-from-43-years-ago/">Social services: Echoes from 43 years ago</a></p>
   
-  [Social services: Echoes from 43 years ago](https://www.caymancompass.com/2017/08/31/social-services-echoes-from-43-years-ago/)
-  
-  </p></details>
+  </details>
 
 <details><summary>Cuban migrant crisis, August 2017</summary>
   
-  <p>
+  <p><a href="https://www.caymancompass.com/2017/08/27/editorial-cuban-migration-caymans-conundrum/">EDITORIAL – Cuban migration: Cayman’s conundrum</a></p>
   
-  [EDITORIAL – Cuban migration: Cayman’s conundrum](https://www.caymancompass.com/2017/08/27/editorial-cuban-migration-caymans-conundrum/)
+  <p><a href="https://www.caymancompass.com/2017/08/24/cuba-to-cayman-one-migrants-saga/">Cuba to Cayman: One migrant’s saga</a></p>
   
-  [Cuba to Cayman: One migrant’s saga](https://www.caymancompass.com/2017/08/24/cuba-to-cayman-one-migrants-saga/)
-  
-  </p></details>
+  </details>
 
 #### Minisites for special reports
 
