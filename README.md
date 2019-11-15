@@ -2,6 +2,22 @@
 
 ### Investigations, features, story packages
 
+<details><summary>Royal visit, March 2019</summary>
+  
+  <p><a href="https://www.caymancompass.com/2019/03/28/editorial-a-royal-visit-to-remember/">EDITORIAL – A royal visit to remember</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/03/28/royals-delight-crowds-in-whirlwind-tour/">Royals delight crowds in whirlwind tour</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/03/28/prince-opens-peoples-airport/">Prince opens ‘people’s airport’</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/03/28/prince-tours-sister-islands-meets-with-locals/">Prince tours Sister Islands, meets with locals</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/03/27/royal-visit-2019/">LIVE UPDATES: Royal Visit 2019</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/03/27/royal-couple-opens-bigger-better-airport/">Royal couple opens ‘bigger, better’ airport</a></p>
+  
+  </details>
+
 <details><summary>Cruise port petition drive, February 2019</summary>
   
   <p><a href="https://www.caymancompass.com/2019/02/07/editorial-petition-organizers-why-the-reluctance-to-share-your-numbers/">EDITORIAL – Petition organizers: Why the reluctance to share your numbers?</a></p>
