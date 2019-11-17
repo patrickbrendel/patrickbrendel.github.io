@@ -2,7 +2,7 @@
 
 ### Investigations, features, story packages
 
-<details><summary>Government spending in Cayman Brac</summary>
+<details><summary>Government spending in Cayman Brac, May 2019</summary>
   
   <p><a href="https://www.caymancompass.com/2019/05/23/brac-to-the-future-stakeholders-aim-to-fuel-the-next-sister-islands-boom/">Brac to the future: Stakeholders aim to fuel the next Sister Islands boom</a></p>
   
