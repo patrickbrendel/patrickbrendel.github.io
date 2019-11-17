@@ -2,6 +2,20 @@
 
 ### Investigations, features, story packages
 
+<details><summary>Government spending in Cayman Brac</summary>
+  
+  <p><a href="https://www.caymancompass.com/2019/05/23/brac-to-the-future-stakeholders-aim-to-fuel-the-next-sister-islands-boom/">Brac to the future: Stakeholders aim to fuel the next Sister Islands boom</a></p>
+  
+  </details>
+
+<details><summary>Immigration and foreign workforce, May 2019</summary>
+  
+  <p><a href="https://www.caymancompass.com/2019/05/16/the-changing-face-of-caymans-workforce-130-nationalities-in-cayman/">The changing face of Cayman’s workforce: 130 nationalities now in country</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/05/16/number-of-foreign-workers-hits-all-time-high/">Number of foreign workers hits all-time high</a></p>
+  
+  </details>
+
 <details><summary>Royal visit, March 2019</summary>
   
   <p><a href="https://www.caymancompass.com/2019/03/28/editorial-a-royal-visit-to-remember/">EDITORIAL – A royal visit to remember</a></p>
