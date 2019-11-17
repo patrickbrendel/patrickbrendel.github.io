@@ -17,6 +17,18 @@
   <p><a href="https://www.caymancompass.com/2019/03/27/royal-couple-opens-bigger-better-airport/">Royal couple opens ‘bigger, better’ airport</a></p>
   
   </details>
+  
+<details><summary>Major music festival, February 2019</summary>
+  
+  <p><a href="https://www.caymancompass.com/2019/02/18/editorial-take-a-bow-kaaboo/">EDITORIAL – Take a bow, KAABOO</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/02/18/kaaboo-sets-cayman-alight/">KAABOO sets Cayman alight</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/02/18/kaaboo-cayman-performances-at-a-glance/">KAABOO Cayman: Performances at a glance</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2019/02/15/local-bands-lift-kaaboo-cayman-to-energetic-start/">Duran Duran caps off first KAABOO Cayman</a></p>
+  
+  </details>
 
 <details><summary>Cruise port petition drive, February 2019</summary>
   
