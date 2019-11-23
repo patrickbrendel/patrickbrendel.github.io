@@ -1,8 +1,0 @@
-theme: jekyll-theme-midnight
-title: Offshore Weekly
-description: Just a demo site
-plugins: 
-  - jekyll-seo-tag
-  - jekyll-sitemap
-# Google Analytics
-google_analytics: UA-146011381-1
