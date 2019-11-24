@@ -4,15 +4,15 @@
 
 *Click each row to expand*
 
-<details><summary><h4>2019 (Executive Editor)</h4></summary>
+<details><summary><strong>2019 (Executive Editor)</strong></summary>
 
-<details><summary>Government spending in Cayman Brac, May 2019</summary>
+<details><summary>&nbsp;&nbsp;Government spending in Cayman Brac, May 2019</summary>
   
   <p><a href="https://www.caymancompass.com/2019/05/23/brac-to-the-future-stakeholders-aim-to-fuel-the-next-sister-islands-boom/">Brac to the future: Stakeholders aim to fuel the next Sister Islands boom</a></p>
   
   </details>
 
-<details><summary>Immigration and foreign workforce, May 2019</summary>
+<details><summary>&nbsp;&nbsp;Immigration and foreign workforce, May 2019</summary>
   
   <p><a href="https://www.caymancompass.com/2019/05/16/the-changing-face-of-caymans-workforce-130-nationalities-in-cayman/">The changing face of Cayman’s workforce: 130 nationalities now in country</a></p>
   
@@ -20,7 +20,7 @@
   
   </details>
 
-<details><summary>Royal visit, March 2019</summary>
+<details><summary>&nbsp;&nbsp;Royal visit, March 2019</summary>
   
   <p><a href="https://www.caymancompass.com/2019/03/28/editorial-a-royal-visit-to-remember/">EDITORIAL – A royal visit to remember</a></p>
   
@@ -36,7 +36,7 @@
   
   </details>
   
-<details><summary>Major music festival, February 2019</summary>
+<details><summary>&nbsp;&nbsp;Major music festival, February 2019</summary>
   
   <p><a href="https://www.caymancompass.com/2019/02/18/editorial-take-a-bow-kaaboo/">EDITORIAL – Take a bow, KAABOO</a></p>
   
@@ -48,7 +48,7 @@
   
   </details>
 
-<details><summary>Cruise port petition drive, February 2019</summary>
+<details><summary>&nbsp;&nbsp;Cruise port petition drive, February 2019</summary>
   
   <p><a href="https://www.caymancompass.com/2019/02/07/editorial-petition-organizers-why-the-reluctance-to-share-your-numbers/">EDITORIAL – Petition organizers: Why the reluctance to share your numbers?</a></p>
   
@@ -56,7 +56,7 @@
   
   </details>
 
-<details><summary>Addiction recovery farm feature, January 2019</summary>
+<details><summary>&nbsp;&nbsp;Addiction recovery farm feature, January 2019</summary>
   
   <p><a href="https://www.caymancompass.com/2019/01/24/editorial-recognizing-and-hopefully-encouraging-all-at-beacon-farms/">EDITORIAL – Recognizing and hopefully encouraging all at Beacon Farms</a></p>
   
@@ -64,7 +64,7 @@
   
   </details>
 
-<details><summary>Development trends, January 2019</summary>
+<details><summary>&nbsp;&nbsp;Development trends, January 2019</summary>
   
   <p><a href="https://www.caymancompass.com/2019/01/17/editorial-cayman-property-good-news-from-the-home-front/">EDITORIAL – Cayman property: Good news from the ‘home front’</a></p>
   
@@ -75,13 +75,13 @@
 
 <details><summary><strong>2018 (Executive Editor)</strong></summary>
 
-<details><summary>Historical Christmas feature, December 2018</summary>
+<details><summary>&nbsp;&nbsp;Historical Christmas feature, December 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/12/20/remembrances-of-christmases-past-wild-fowl-weeping-willow-and-junkanoo/">Remembrances of Christmases past: Wild fowl, weeping willow and Junkanoo</a></p>
   
   </details>
 
-<details><summary>Barkers National Park, December 2018</summary>
+<details><summary>&nbsp;&nbsp;Barkers National Park, December 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/12/13/editorial-barkers-park-and-principles-of-private-property/">EDITORIAL – ‘Barkers Park’ and principles of private property</a></p>
   
@@ -91,20 +91,20 @@
   
   </details>
   
-<details><summary>Government church-building project, December 2018</summary>
+<details><summary>&nbsp;&nbsp;Government church-building project, December 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/12/06/nation-building-round-two/">‘Nation Building’: Round Two?</a></p>
   
   </details>
 
-<details><summary>Green iguana culling program, November 2018</summary>
+<details><summary>&nbsp;&nbsp;Green iguana culling program, November 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/11/16/editorial-caymans-cullers-have-invasive-iguanas-at-bay/">EDITORIAL – Cayman’s cullers have invasive iguanas at bay</a></p>
   <p><a href="https://www.caymancompass.com/2018/11/16/the-green-iguana-gold-rush/">The green iguana gold rush</a></p>
   
   </details>
 
-<details><summary>Special-needs training center, October 2018</summary>
+<details><summary>&nbsp;&nbsp;Special-needs training center, October 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/10/11/editorial-seeking-a-new-beginning-for-sunrise-centre/">EDITORIAL – Seeking a new beginning for Sunrise Centre</a></p>
   
@@ -112,7 +112,7 @@
   
   </details>
 
-<details><summary>Cruise dock debate, September 2018</summary>
+<details><summary>&nbsp;&nbsp;Cruise dock debate, September 2018</summary>
 
   <p><a href="https://www.caymancompass.com/2018/09/20/editorial-cruise-pier-to-be-or-not-to-be/">EDITORIAL – Cruise pier: To be or not to be?</a></p>
   
@@ -124,7 +124,7 @@
   
   </details>
   
-<details><summary>Beneficial ownership registers, May 2018</summary>
+<details><summary>&nbsp;&nbsp;Beneficial ownership registers, May 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/05/03/betrayal/">EDITORIAL – Betrayal!</a></p>
   
@@ -139,7 +139,7 @@
   <p><a href="https://www.caymancompass.com/2018/05/01/uk-to-force-cayman-territories-to-make-company-owners-public/">UK to force Cayman, territories to make company owners public</a></p>
 </details>
 
-<details><summary>Medical waste disposal, May 2018</summary>
+<details><summary>&nbsp;&nbsp;Medical waste disposal, May 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/05/09/editorial-bracs-untreated-medical-waste-is-a-pan-cayman-problem/">EDITORIAL – Brac’s untreated medical waste is a ‘pan-Cayman’ problem</a></p>
   
@@ -147,7 +147,7 @@
   
   </details>
 
-<details><summary>Airport overload, April 2018</summary>
+<details><summary>&nbsp;&nbsp;Airport overload, April 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/04/05/editorial-eliminating-the-saturday-gridlock-at-owen-roberts/">EDITORIAL – Eliminating the Saturday gridlock at Owen Roberts</a></p>
   
@@ -155,7 +155,7 @@
   
   </details>
 
-<details><summary>Telecommunications industry, March 2018</summary>
+<details><summary>&nbsp;&nbsp;Telecommunications industry, March 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/03/22/compass-investigation-cayman-communications-from-telegrams-to-broadband/">Cayman communications: From telegrams to broadband</a></p>
   
@@ -165,7 +165,7 @@
   
   </details>
 
-<details><summary>Water system, March 2018</summary>
+<details><summary>&nbsp;&nbsp;Water system, March 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/03/15/compass-investigation-caymans-water-where-it-comes-from-where-it-goes/">Cayman’s water – Where it comes from, where it goes …</a></p>
   
@@ -173,7 +173,7 @@
   
   </details>
 
-<details><summary>Judicial and legal reform, March 2018</summary>
+<details><summary>&nbsp;&nbsp;Judicial and legal reform, March 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/03/08/editorial-when-convictions-go-unrecorded-in-our-courts/">EDITORIAL – When convictions go unrecorded in our courts</a></p>
   
@@ -181,7 +181,7 @@
  
   </details>
 
-<details><summary>Police bail, March 2018</summary>
+<details><summary>&nbsp;&nbsp;Police bail, March 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/03/01/editorial-the-injustice-of-open-ended-police-bail/">EDITORIAL – The injustice of open-ended police bail</a></p>
   
@@ -191,7 +191,7 @@
   
   </details>
 
-<details><summary>Financial services sector, January 2018</summary>
+<details><summary>&nbsp;&nbsp;Financial services sector, January 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/01/25/editorial-paying-homage-to-caymans-essential-invisible-giant/">EDITORIAL – Paying homage to Cayman’s essential ‘invisible’ giant</a></p>
   
@@ -199,7 +199,7 @@
   
   </details>
 
-<details><summary>Courts system, January 2018</summary>
+<details><summary>&nbsp;&nbsp;Courts system, January 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/01/18/editorial-support-the-court-build-the-building/">EDITORIAL: Support the court — Build the building</a></p>
   
@@ -209,7 +209,7 @@
   
   </details>
 
-<details><summary>Centenarians feature, January 2018</summary>
+<details><summary>&nbsp;&nbsp;Centenarians feature, January 2018</summary>
   
   <p><a href="https://www.caymancompass.com/2018/01/11/editorial-an-overflowing-cakeful-of-candles-to-our-cayman-centenarians/">EDITORIAL – An overflowing cakeful of candles to our Cayman centenarians</a></p>
   
@@ -223,7 +223,7 @@
 
 <details><summary><strong>2017 (Executive Editor)</strong></summary>
 
-<details><summary>Liquor licensing, September 2017</summary>
+<details><summary>&nbsp;&nbsp;Liquor licensing, September 2017</summary>
   
   <p><a href="https://www.caymancompass.com/2017/09/28/editorial-liquor-board-must-resign-en-masse/">EDITORIAL – Liquor Board must resign en masse</a></p>
   
@@ -231,7 +231,7 @@
   
   </details>
 
-<details><summary>Social welfare reform, August 2017</summary>
+<details><summary>&nbsp;&nbsp;Social welfare reform, August 2017</summary>
   
   <p><a href="https://www.caymancompass.com/2017/08/31/editorial-a-needs-assessment-of-our-welfare-services/">EDITORIAL – A ‘needs assessment’ of our welfare services</a></p>
   
@@ -245,7 +245,7 @@
   
   </details>
 
-<details><summary>Cuban migrant crisis, August 2017</summary>
+<details><summary>&nbsp;&nbsp;Cuban migrant crisis, August 2017</summary>
   
   <p><a href="https://www.caymancompass.com/2017/08/27/editorial-cuban-migration-caymans-conundrum/">EDITORIAL – Cuban migration: Cayman’s conundrum</a></p>
   
@@ -257,7 +257,7 @@
 
 <details><summary><strong>2013 (Reporter)</strong></summary>
   
-  <details><summary>Legal dispute over derelict hotel, August-September 2013</summary>
+  <details><summary>&nbsp;&nbsp;Legal dispute over derelict hotel, August-September 2013</summary>
   
   <p><a href="https://www.caymancompass.com/2013/08/20/legal-issues-haunt-hyatt/">Legal issues haunt Hyatt</a></p>
   
@@ -265,13 +265,13 @@
   
   </details>
 
-<details><summary>Housing trends, July 2013</summary>
+<details><summary>&nbsp;&nbsp;Housing trends, July 2013</summary>
   
   <p><a href="https://www.caymancompass.com/2013/07/24/in-cayman-home-is-where-the-house-is/">In Cayman, home is where the house is</a></p>
     
   </details>
 
-<details><summary>Government consulting expenses, March-June 2013</summary>
+<details><summary>&nbsp;&nbsp;Government consulting expenses, March-June 2013</summary>
   
   <p><a href="https://www.caymancompass.com/2013/06/03/government-consultants-everywhere/">Government consultants everywhere</a></p>
 
@@ -279,13 +279,13 @@
 
   </details>
 
-<details><summary>Moonlighting civil servants, April 2013</summary>
+<details><summary>&nbsp;&nbsp;Moonlighting civil servants, April 2013</summary>
   
   <p><a href="https://www.caymancompass.com/2013/04/26/govt-sheds-light-on-civil-servants-moonlighting/">Gov’t sheds light on civil servants’ moonlighting</a></p>
     
   </details>
 
-<details><summary>Government travel expenses, March 2012-April 2013</summary>
+<details><summary>&nbsp;&nbsp;Government travel expenses, March 2012-April 2013</summary>
   
   <p><a href="https://www.caymancompass.com/2013/04/22/ministries-release-travel-costs-since-2005/">Ministries release travel costs since 2005</a></p>
   
@@ -297,7 +297,7 @@
   
   </details>
 
-<details><summary>Government “nation-building fund” expenses, February-April 2013</summary>
+<details><summary>&nbsp;&nbsp;Government “nation-building fund” expenses, February-April 2013</summary>
 
   <p><a href="https://www.caymancompass.com/2013/04/22/another-church-returns-nation-building-fund-appropriations/">Another church returns Nation Building Fund appropriations</a></p>
 
@@ -311,13 +311,13 @@
 
 <details><summary><strong>2012 (Reporter)</strong></summary>
 
-<details><summary>Largest employers of foreign workers, August 2012</summary>
+<details><summary>&nbsp;&nbsp;Largest employers of foreign workers, August 2012</summary>
 
   <p><a href="https://www.caymancompass.com/2012/08/17/ritz-fosters-maples-top-list-of-work-permit-employers/">Ritz, Foster’s, Maples, top list of work permit employers</a></p>
 
   </details>
 
-<details><summary>Small business landscape, April 2012</summary>
+<details><summary>&nbsp;&nbsp;Small business landscape, April 2012</summary>
 
   <p><a href="https://www.caymancompass.com/2012/04/18/small-businesses-big-ponds/">Small businesses, big ponds</a></p>
 
@@ -325,7 +325,7 @@
     
   </details>
 
-<details><summary>Eminent domain and road construction, February-March 2012</summary>
+<details><summary>&nbsp;&nbsp;Eminent domain and road construction, February-March 2012</summary>
 
   <p><a href="https://www.caymancompass.com/2012/03/23/payments-missing-in-government-grabs-of-private-property/">Payments missing in government grabs of private property</a></p>
 
@@ -337,7 +337,7 @@
   
 ### Opinion writing
 
-<details><summary>'Editorial Year in Reviews' for 2014-2016</summary>
+<details><summary>&nbsp;&nbsp;'Editorial Year in Reviews' for 2014-2016</summary>
   
   <p><a href="https://www.caymancompass.com/2016/12/28/editorial-year-in-review/">Cayman Compass 'Editorial Year in Review' for 2016</a></p>
   
@@ -353,7 +353,7 @@
 
 ### Data/visuals
 
-<details><summary>Charts, graphs, maps</summary>
+<details><summary>&nbsp;&nbsp;Charts, graphs, maps</summary>
   
   <p><a href="https://www.caymancompass.com/2019/09/11/44-cyclists-injured-on-cayman-roads-in-one-year/">Map of auto accidents involving cyclists or pedestrians</a></p>
   
@@ -373,7 +373,7 @@
 
 </details>
 
-<details><summary>DocumentCloud</summary>
+<details><summary>&nbsp;&nbsp;DocumentCloud</summary>
   
   <p><a href="https://www.caymancompass.com/2019/08/22/royal-visit-cost-cayman-more-than-300000/">Project directory embed for royal visit expenses</a></p>
   
