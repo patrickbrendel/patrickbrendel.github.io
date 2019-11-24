@@ -4,6 +4,8 @@
 
 *Click each row to expand*
 
+<details><summary><strong>2019 (Executive Editor)</strong></summary>
+
 <details><summary>Government spending in Cayman Brac, May 2019</summary>
   
   <p><a href="https://www.caymancompass.com/2019/05/23/brac-to-the-future-stakeholders-aim-to-fuel-the-next-sister-islands-boom/">Brac to the future: Stakeholders aim to fuel the next Sister Islands boom</a></p>
@@ -69,6 +71,9 @@
   <p><a href="https://www.caymancompass.com/2019/01/17/no-place-like-home-caymans-residential-property-boom/">‘No place like home’: Cayman’s residential property boom</a></p>
   
   </details>
+</details>
+
+<details><summary><strong>2018 (Executive Editor)</strong></summary>
 
 <details><summary>Historical Christmas feature, December 2018</summary>
   
@@ -214,6 +219,10 @@
   
   </details>
 
+</details>
+
+<details><summary><strong>2017 (Executive Editor)</strong></summary>
+
 <details><summary>Liquor licensing, September 2017</summary>
   
   <p><a href="https://www.caymancompass.com/2017/09/28/editorial-liquor-board-must-resign-en-masse/">EDITORIAL – Liquor Board must resign en masse</a></p>
@@ -243,6 +252,88 @@
   <p><a href="https://www.caymancompass.com/2017/08/24/cuba-to-cayman-one-migrants-saga/">Cuba to Cayman: One migrant’s saga</a></p>
   
   </details>
+  
+</details>
+
+<details><summary><strong>2013 (Reporter)</strong></summary>
+  
+  <details><summary>Legal dispute over derelict hotel, August-September 2013</summary>
+  
+  <p><a href="https://www.caymancompass.com/2013/08/20/legal-issues-haunt-hyatt/">Legal issues haunt Hyatt</a></p>
+  
+  <p><a href="http://www.journal.ky/2013/09/04/Closed-for-nine-years,-but-Hyatt-is-very-active-in-court/">Closed for nine years, but Hyatt is very active in court</a></p>
+  
+  </details>
+
+<details><summary>Housing trends, July 2013</summary>
+  
+  <p><a href="https://www.caymancompass.com/2013/07/24/in-cayman-home-is-where-the-house-is/">In Cayman, home is where the house is</a></p>
+    
+  </details>
+
+<details><summary>Government consulting expenses, March-June 2013</summary>
+  
+  <p><a href="https://www.caymancompass.com/2013/06/03/government-consultants-everywhere/">Government consultants everywhere</a></p>
+
+  <p><a href="https://www.caymancompass.com/2013/05/14/consultants-paid-40m-over-eight-years/">Consultants paid $40M over eight years</a></p>
+
+  </details>
+
+<details><summary>Moonlighting civil servants, April 2013</summary>
+  
+  <p><a href="https://www.caymancompass.com/2013/04/26/govt-sheds-light-on-civil-servants-moonlighting/">Gov’t sheds light on civil servants’ moonlighting</a></p>
+    
+  </details>
+
+<details><summary>Government travel expenses, March 2012-April 2013</summary>
+  
+  <p><a href="https://www.caymancompass.com/2013/04/22/ministries-release-travel-costs-since-2005/">Ministries release travel costs since 2005</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2012/10/23/panama-party-ballooned-in-attendees/">Panama party ballooned in attendees</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2012/08/14/dots-swanky-gigs-cause-discord/">DoT’s Swanky gigs cause discord</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2012/03/14/premiers-travel-info-made-public/">Premier’s travel info made public</a></p>
+  
+  </details>
+
+<details><summary>Government “nation-building fund” expenses, February-April 2013</summary>
+
+  <p><a href="https://www.caymancompass.com/2013/04/22/another-church-returns-nation-building-fund-appropriations/">Another church returns Nation Building Fund appropriations</a></p>
+
+  <p><a href="https://www.caymancompass.com/2013/03/11/govt-pays-560k-for-barkers-park-rangers/">Gov’t pays $560K for Barkers ‘park rangers’</a></p>
+  
+  <p><a href="https://www.caymancompass.com/2013/02/22/nation-building-fund-95m-spent-in-first-3-years/">Nation Building Fund: $9.5M spent in first 3 years</a></p>
+  
+  </details>
+
+</details>
+
+<details><summary><strong>2012 (Reporter)</strong></summary>
+
+<details><summary>Largest employers of foreign workers, August 2012</summary>
+
+  <p><a href="https://www.caymancompass.com/2012/08/17/ritz-fosters-maples-top-list-of-work-permit-employers/">Ritz, Foster’s, Maples, top list of work permit employers</a></p>
+
+  </details>
+
+<details><summary>Small business landscape, April 2012</summary>
+
+  <p><a href="https://www.caymancompass.com/2012/04/18/small-businesses-big-ponds/">Small businesses, big ponds</a></p>
+
+  <p><a href="https://www.caymancompass.com/2012/04/18/small-businesses-by-the-numbers/">Small businesses, by the numbers</a></p>
+    
+  </details>
+
+<details><summary>Eminent domain and road construction, February-March 2012</summary>
+
+  <p><a href="https://www.caymancompass.com/2012/03/23/payments-missing-in-government-grabs-of-private-property/">Payments missing in government grabs of private property</a></p>
+
+  <p><a href="https://www.caymancompass.com/2012/02/08/not-gazetted-long-term-road-plan-influences-development/">Not gazetted, long-term road plan influences development</a></p>
+  
+  </details>
+  
+</details>
   
 ### Opinion writing
 
