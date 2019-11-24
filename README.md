@@ -4,9 +4,9 @@
 
 *Click each row to expand*
 
-<details><summary><strong>2019 (Executive Editor)</strong></summary>
+<details><summary><h4>2019 (Executive Editor)</h4></summary>
 
-&nbsp; &nbsp; <details><summary>Government spending in Cayman Brac, May 2019</summary>
+<details><summary>Government spending in Cayman Brac, May 2019</summary>
   
   <p><a href="https://www.caymancompass.com/2019/05/23/brac-to-the-future-stakeholders-aim-to-fuel-the-next-sister-islands-boom/">Brac to the future: Stakeholders aim to fuel the next Sister Islands boom</a></p>
   
