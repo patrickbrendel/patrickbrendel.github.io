@@ -307,6 +307,8 @@
 
 [<img src="https://patrickbrendel.github.io/resources/github-icon.svg" width="50">](https://www.github.com/patrickbrendel) &nbsp; [<img src="https://patrickbrendel.github.io/resources/linkedin.svg" width="50">](https://www.linkedin.com/in/patrick-brendel-06b8713b) &nbsp; [<img src="https://patrickbrendel.github.io/resources/twitter.svg" width="50">](https://www.twitter.com/pbrendel)
 
+<patrick@pbrendel.com>
+
 <!---
 Disclosure: Github, LinkedIn and Twitter logos downloaded from www.svgporn.com 
 -->
