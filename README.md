@@ -4,6 +4,16 @@
 
 *Click each row to expand*
 
+<details><summary><strong>2020 (Contributing Editor)</strong></summary>
+  
+<details><summary>&nbsp;&nbsp;<em>Grand Cayman Magazine</em>, Volume XVI · Issue 1 · 2020</summary>
+  
+  <p><a href="https://grandcaymanmagazine.com/in-print/">View a PDF of the magazine</a></p>
+  
+  </details>
+
+</details>
+
 <details><summary><strong>2019 (Executive Editor)</strong></summary>
 
 <details><summary>&nbsp;&nbsp;Government spending in Cayman Brac, May 2019</summary>
